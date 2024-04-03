@@ -57,6 +57,29 @@
 2. [Horizontal](./google-ad-img/Screenshot%202024-03-24%20at%203.51.17 pm.png)
 3. [Vertical](./google-ad-img/Screenshot%202024-03-24%20at%203.51.17 pm.png)
 
+### 6. Google Ads Search engine
+
+1. Sign in to your AdSense account.
+2. Click Ads.
+3. Click By ad unit.
+4. Click Search engine.
+
+- Note: If you don't see the Search engine option, you're not eligible.
+
+5. Give your search engine a name.
+
+## Our Website feedback
+
+- [Overall](./google-ad-img/review.png)
+
+- [Low content](https://support.google.com/publisherpolicies/table/10563033?sjid=15764063180604212754-AP) - [Learn more](https://support.google.com/publisherpolicies/answer/11112688)
+- [Policy tips for creating high quality sites (part 1)](https://adsense.googleblog.com/2012/04/tips-for-creating-high-quality-sites.html)
+- [Policy tips for creating high quality sites (part 2)](https://adsense.googleblog.com/2012/09/tips-for-creating-high-quality-sites.html)
+- [Webmaster quality guidelines](https://developers.google.com/search/docs/essentials)
+- [AdSense programme policies](https://support.google.com/adsense/answer/48182?utm_source=crs&utm_medium=email&utm_campaign=notification)
+- [AdMob policies and restrictions](https://support.google.com/admob/answer/6128543)
+- [Unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)
+
 ## 二. Google keyword planner（Website: [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)）
 
 ### 1. Google keyword planner 是什么？
@@ -74,5 +97,3 @@
 
 3. Write Headlines and Description
 4. upload images
-
-## Microsoft Advertising（Website: [Microsoft Advertising](https://ads.microsoft.com/)）
